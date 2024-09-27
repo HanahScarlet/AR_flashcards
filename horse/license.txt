@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly western horse
+* source:	https://sketchfab.com/3d-models/low-poly-western-horse-0995712a05a64d5b9b41ba3bda9da63a
+* author:	Natural History Museum of Los Angeles County (https://sketchfab.com/NHMLA)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly western horse" (https://sketchfab.com/3d-models/low-poly-western-horse-0995712a05a64d5b9b41ba3bda9da63a) by Natural History Museum of Los Angeles County (https://sketchfab.com/NHMLA) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

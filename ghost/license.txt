@@ -1,0 +1,11 @@
+Model Information:
+* title:	ghost
+* source:	https://sketchfab.com/3d-models/ghost-00c948a736e04b6aa0b261feed0a93d8
+* author:	pabuuun (https://sketchfab.com/kpablow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ghost" (https://sketchfab.com/3d-models/ghost-00c948a736e04b6aa0b261feed0a93d8) by pabuuun (https://sketchfab.com/kpablow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
